@@ -1,0 +1,37 @@
+{
+  "name": "social-media-app-back-end",
+  "version": "1.0.0",
+  "description": "A Node Js API",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "node",
+    "api"
+  ],
+  "author": "Mohammad Jihad Uddin",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-jwt": "^6.0.0",
+    "express-validator": "^5.3.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.22",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.4",
+    "uuidv1": "^1.6.14"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+(https://github.com/mjihaduddin00/Social-Media-App-Back-End)"
+  },
+  "bugs": {
+    "url": "(https://github.com/mjihaduddin00/Social-Media-App-Back-End)"
+  },
+  "homepage": "https://github.com/mjihaduddin00/Social-Media-App-Back-End#readme"
+}
